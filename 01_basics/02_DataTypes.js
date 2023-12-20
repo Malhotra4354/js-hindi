@@ -11,6 +11,7 @@ let age = 19
 let isLoogedin = false
 let state
 
+console.log(state);
 // number => 2 to power 53
 // bigint
 // string => ""
