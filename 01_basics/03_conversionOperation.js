@@ -12,20 +12,10 @@ let ValueInNumber = Number(score)
 // "33abc" => Nan (Not a number)
 // true => 1; False => 0
 
-let isLoogedIn ="manish"
-// console.log(typeof isLoogedIn);
-// console.log(isLoogedIn);
+let isLoogedIn = "MANISH"
+
 
 let BooleanIsLoogedIn = Boolean(isLoogedIn)
-// console.log(typeof BooleanIsLoogedIn);
-// console.log(BooleanIsLoogedIn);
+console.log(typeof BooleanIsLoogedIn);
+console.log(BooleanIsLoogedIn);
 
-// 1=> True; 0 => False
-// "" => False
-// "Hitesh" => True
-
-let someNumber = 33
-
-let stringNumber = String(someNumber)
-console.log(typeof stringNumber);
-console.log(stringNumber);
